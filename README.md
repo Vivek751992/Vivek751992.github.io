@@ -1,12 +1,6 @@
-# Vivek Kumar T — Career Dashboard
+# Vivek Kumar T — Professional Portfolio
 
-A responsive personal career website built from the uploaded resume.
+Upload `index.html` and `Vivek_Kumar_Resume.pdf` to the root of the GitHub Pages repository.
 
-## Run locally
-Open `index.html` in a browser.
-
-## Deploy
-Upload the folder to GitHub Pages, Netlify, Vercel, or another static hosting provider.
-
-## Personal links
-LinkedIn is configured from the resume. Replace/add GitHub, resume download, profile photo, projects, and email details as needed.
+The website is self-contained and requires no external CSS/JS libraries.
+Recommended repository for a user site: `vivek751992.github.io`.
